@@ -1,0 +1,2 @@
+# javaAnnotations
+ Sample SCA
