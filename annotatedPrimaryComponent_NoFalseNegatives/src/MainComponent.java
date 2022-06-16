@@ -190,7 +190,7 @@ public class MainComponent {
 								"sensitive transaction key = " + sensitiveTransactionKey;
 		
 			// TODO: an original false negative will now be correctly reported as a privacy violation
-			// Fortify SCA will now recognize the sensitiveTransactionKey as a senha_removida
+			// Fortify SCA will now recognize the sensitiveTransactionKey as a password
 			
 			logProgrammerNote(debugNote);
 			
